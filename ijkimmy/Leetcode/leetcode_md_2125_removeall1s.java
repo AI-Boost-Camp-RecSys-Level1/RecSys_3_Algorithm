@@ -1,4 +1,4 @@
-package RecSys_3_Algorithm.ijkimmy;
+package RecSys_3_Algorithm.ijkimmy.Leetcode;
 
 public class leetcode_md_2125_removeall1s {
     // input:   m x n matrix
